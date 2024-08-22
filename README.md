@@ -5,7 +5,7 @@
 
 Little About me:
 
-- 🔭 I’m currently an Application Development Analyst at Accenture
-- 🌱 I’m currently learning Redux JS , Next JS
-- 👯 I’m looking to collaborate on Front-end web development projects
-- 💬 Ask me about HTML/CSS/Javascript or React/Express
+- 🔭 I’m currently Full Stack Developer at Abilitystack
+- 🌱 Proficient in techstacks such as Javascript, Golang, Python
+- 👯 I’m looking to collaborate on Fullstack development projects
+- 💬 Ask me about HTML/CSS/Javascript or React/NodeJs/Golang/Python
